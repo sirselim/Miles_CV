@@ -53,7 +53,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * R
 * Shiny
 * Statistics
-* \LaTeX\
+* LaTeX
 * Markdown
 * Git / GitHub
 * UNIX
