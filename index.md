@@ -96,6 +96,8 @@ ESR Vision Best Paper Award (August 2015)
 `2014`
 Best Poster Presentation, Genemappers Conference 2014, Novotel Barossa Valley Resort, SA, Australia, 11th – 14th May 2014.
 
+Richard Stewart Memorial Prize (2nd place best presentation), Wellington Health and Biomedical Research Society
+
 `2012`
 Inaugural Grasshopper prize for Scientific Innovation. Wellington Health and Biomedical Research Society annual students and early researchers meeting, Victoria University of Wellington, Wellington, New Zealand, 19th November 2012.
 
