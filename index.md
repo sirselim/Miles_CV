@@ -85,29 +85,29 @@ Member Australasian Genomic Technologies Association (AGTA).
 ### Honours and Distinctions
 
 `2017` 
-QUT School of Biomedical Sciences Travel Grant 
+_QUT School of Biomedical Sciences Travel Grant_
 
 `2016`
-QUT Carla Patterson Award – Best Paper, Early Career Researcher
+_QUT Carla Patterson Award_ – Best Paper, Early Career Researcher
 
 `2015`
-ESR Vision Best Paper Award (August 2015)
+_ESR Vision Best Paper Award_ (August 2015)
 
 `2014`
-Best Poster Presentation, Genemappers Conference 2014, Novotel Barossa Valley Resort, SA, Australia, 11th – 14th May 2014.
+_Best Poster Presentation_, Genemappers Conference 2014, Novotel Barossa Valley Resort, SA, Australia, 11th – 14th May 2014.
 
-Richard Stewart Memorial Prize (2nd place best presentation), Wellington Health and Biomedical Research Society
+_Richard Stewart Memorial Prize_ (2nd place best presentation), Wellington Health and Biomedical Research Society
 
 `2012`
-Inaugural Grasshopper prize for Scientific Innovation. Wellington Health and Biomedical Research Society annual students and early researchers meeting, Victoria University of Wellington, Wellington, New Zealand, 19th November 2012.
+_Inaugural Grasshopper prize for Scientific Innovation_. Wellington Health and Biomedical Research Society annual students and early researchers meeting, Victoria University of Wellington, Wellington, New Zealand, 19th November 2012.
 
-Best Student Presenter. 2nd Biomarker Discovery Conference, Shoal Bay Resort and Spa, NSW, Australia, 5th December 2012.
+_Best Student Presenter_. 2nd Biomarker Discovery Conference, Shoal Bay Resort and Spa, NSW, Australia, 5th December 2012.
 
 `2010-13`
-Griffith University Higher Degree Research Scholarship
+_Griffith University Higher Degree Research Scholarship_
 
 `2007-10`
-ESR Masters Research Scholarship
+_ESR Masters Research Scholarship_
 
 ### Supervision
 
