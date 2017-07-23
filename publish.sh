@@ -12,3 +12,6 @@ rm -R ../personal_site/public/cv/*
 #cp -R _site/media ../other/blmoore.github.io/cv/.
 cp _site/index.html ../sirselim.github.io/cv/
 cp _site/index.html ../personal_site/public/cv/
+cp _site/Miles_Benton_CV.pdf ../sirselim.github.io/cv/
+cp _site/Miles_Benton_CV.pdf ../personal_site/public/cv/
+
