@@ -119,23 +119,24 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __26__	
 * H-index: __10__
-* Citations: __308__
+* Citations: __315__
 
 ## Publications
 
 <!-- ### Journals -->
 `2017`
-White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (preliminary acceptance, awaiting publication)
 
-Maltby V, Lea RA, Sanders K, White NM, **Benton MC**, Scott R, and Lechner-Scott J. (2017) Differential Methylation at MHC in CD4+ T cells is associated with multiple sclerosis independently of HLA-DRB1. *Clinical Epigenetics* (accepted 11th July, awaiting publication)
+Matovinovic E, Kho PF, Lea RA, Benton MC, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. Molecular Vision (preliminary acceptance 4th July, awaiting publication)
 
-Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (preliminary acceptance 4th July, awaiting publication)
+Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (accepted, DOI: 10.1002/oby.21950)
 
-Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (accepted 3rd July, awaiting publication)
+White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (accepted) 
 
-Macartney-Coxson D, **Benton MC**, Blick R, Stubbs RS, Hagan RD, and Langston MA. (2017) Genome-wide DNA methylation analysis reveals loci that distinguish different types of adipose tissue in obese individuals. *Clinical Epigenetics* 9(48)
+Maltby V, Lea RA, Sanders K, White NM, **Benton MC**, Scott R, and Lechner-Scott J. (2017) Differential Methylation at MHC in CD4+ T cells is associated with multiple sclerosis independently of HLA-DRB1. *Clinical Epigenetics* 9(71) 
 
-**Benton MC**, Sutherland HG, Macartney-Coxson D, Haupt LM, Lea RA, and Griffiths LR. (2017) Methylome-wide association study of whole blood DNA in the Norfolk Island isolate identifies robust loci associated with age. *Aging* 
+Macartney-Coxson D, **Benton MC**, Blick R, Stubbs RS, Hagan RD, and Langston MA. (2017) Genome-wide DNA methylation analysis reveals loci that distinguish different types of adipose tissue in obese individuals. *Clinical Epigenetics* 9(48) 
+
+**Benton MC**, Sutherland HG, Macartney-Coxson D, Haupt LM, Lea RA, and Griffiths LR. (2017) Methylome-wide association study of whole blood DNA in the Norfolk Island isolate identifies robust loci associated with age. *Aging* 9(3)
 
 Stuart S, **Benton MC**, Eccles D, Sutherland H, Haupt LM, Lea RA and Griffiths LR. (2017) Gene-Centric Analysis Implicates Nuclear Encoded Mitochondrial Protein Gene Variants in Migraine Susceptibility. *Molecular Genetics & Genomic Medicine* 
 
