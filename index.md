@@ -126,7 +126,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 <!-- ### Journals -->
 `2017`
 
-Matovinovic E, Kho PF, Lea RA, Benton MC, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. Molecular Vision (preliminary acceptance 4th July, awaiting publication)
+Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (preliminary acceptance 4th July, awaiting publication)
 
 Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (accepted, DOI: 10.1002/oby.21950)
 
