@@ -297,4 +297,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: July 2017 -->
+Last updated: August 2017 -->
