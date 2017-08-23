@@ -119,7 +119,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __26__	
 * H-index: __10__
-* Citations: __315__
+* Citations: __323__
 
 ## Publications
 
@@ -128,7 +128,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (preliminary acceptance 4th July, awaiting publication)
 
-Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (accepted, DOI: 10.1002/oby.21950)
+Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (early access, DOI: 10.1002/oby.21950)
 
 White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (accepted) 
 
@@ -189,6 +189,8 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 ### Conference Talks
 
 `2017`
+**Benton MC**. The ‘omic coal face: classifying human genomic and epigenomic inheritance. IHBI Inspires 2017, Brisbane, Australia, August 23rd-25th.
+
 **Benton MC**. Identification of allelic-specific methylation profiles in a genetic isolate. GeneMappers 2017 - Novotel Geelong, Victoria, Australia, April 26th-28th.
 
 `2016`
