@@ -119,18 +119,20 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __27__	
 * H-index: __11__
-* Citations: __340__
+* Citations: __343__
 
 ## Publications
 
 <!-- ### Journals -->
 `2017`
 
-Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (preliminary acceptance 4th July, awaiting publication)
+Kho PF, Lea RA, **Benton MC****, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, Griffiths LR. (2017) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* (accepted 21st September 2017)
+
+Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (accepted 4th July, awaiting publication)
 
 Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (early access, DOI: 10.1002/oby.21950)
 
-White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (accepted) 
+White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (accepted, pre-print) 
 
 Maltby V, Lea RA, Sanders K, White NM, **Benton MC**, Scott R, and Lechner-Scott J. (2017) Differential Methylation at MHC in CD4+ T cells is associated with multiple sclerosis independently of HLA-DRB1. *Clinical Epigenetics* 9(71) 
 
