@@ -126,7 +126,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 <!-- ### Journals -->
 `2017`
 
-Kho PF, Lea RA, **Benton MC****, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, Griffiths LR. (2017) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* (accepted 21st September 2017)
+Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, Griffiths LR. (2017) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* (accepted 21st September 2017)
 
 Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (accepted 4th July, awaiting publication)
 
