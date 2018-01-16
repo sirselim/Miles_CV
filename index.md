@@ -117,22 +117,26 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __27__	
+* Journal articles: __28__	
 * H-index: __11__
-* Citations: __343__
+* Citations: __399__
 
 ## Publications
 
 <!-- ### Journals -->
+`2018`
+
+Dunn P, Albury CL, Maksemous N, **Benton MC**, Sutherland HG, Smith RA, Haupt LM, and Griffiths LR. (2018) Next Generation Sequencing Methods for Diagnosis of Epilepsy Syndromes. *Frontiers in Genetics* (accepted 16th Janurary)
+
+Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2018) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* 63 [DOI:10.1038/s10038-017-0374-y]
+
 `2017`
 
-Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, Griffiths LR. (2017) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* (accepted 21st September 2017)
+Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* 23
 
-Matovinovic E, Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2017) Genome-wide linkage and association analysis of primary open-angle glaucoma endophenotypes in the Norfolk Island isolate. *Molecular Vision* (accepted 4th July, awaiting publication)
+Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity*  25(10) [DOI: 10.1002/oby.21950]
 
-Jones A, Danielson KM, **Benton MC**, Ziegler O, Shah R, Stubbs RS, Das S, and Macartney-Coxson D. (2017) miRNA signatures of insulin resistance in obesity. *Obesity* (early access, DOI: 10.1002/oby.21950)
-
-White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* (accepted, pre-print) 
+White NM, **Benton MC**, Kennedy D, Fox A, Griffiths LR, Lea RA, and Mengersen KL. (2017) Accounting for cell lineage and sex effects in the identification of cell-specific DNA methylation using a Bayesian model selection algorithm. *PLoS One* 12(9)
 
 Maltby V, Lea RA, Sanders K, White NM, **Benton MC**, Scott R, and Lechner-Scott J. (2017) Differential Methylation at MHC in CD4+ T cells is associated with multiple sclerosis independently of HLA-DRB1. *Clinical Epigenetics* 9(71) 
 
