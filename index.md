@@ -54,15 +54,17 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * Shiny
 * Statistics
 * LaTeX
-* Markdown
+* Markdown / RMarkdown
 * Git / GitHub
 * UNIX
 * Machine learning
 * Bash
-* Inkscape
+* Python
+* Inkscape / Gimp
 * Data visualisation
 * Cluster computing
 * HTML and CSS
+* Javascript
 
 
 ## Distinctions and Memberships
