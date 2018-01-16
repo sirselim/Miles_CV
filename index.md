@@ -278,7 +278,7 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 
 ### Other dissemination
 
-**Benton MC**. Online Resources, Databases and Clinical Data Management Wellington Hospital, Wellington, New Zealand, July 12th.
+**Benton MC**. Online Resources, Databases and Clinical Data Management Wellington Hospital, Wellington, New Zealand, July 12th 2017.
 
 **Benton MC**. My journey - how bioinformatics changed my worldview: the many platforms, data types and analyses I've learnt along the way… and other general ramblings. Invited speaker, CMB Friday seminar series, Vitoria University of Wellington, Wellington, New Zealand, 6th Novemember 2015. 
 
