@@ -74,7 +74,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 ### Professional Memberships
 
 `2015 -`
-Ad hoc reviewer, Gene
+Ad hoc reviewer, PLoS One, BMC Medical Genetics, Gene
 
 `2015 -` 
 Reviewer National Health and Medical Research Council, Australia
