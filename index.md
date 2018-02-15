@@ -121,7 +121,6 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __29__	
 * H-index: __11__
-* i10-index: __11__
 * Citations: __414__
 
 ## Publications
