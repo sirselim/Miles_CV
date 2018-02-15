@@ -119,14 +119,17 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __28__	
+* Journal articles: __29__	
 * H-index: __11__
-* Citations: __399__
+* i10-index: __11__
+* Citations: __414__
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
+Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
+
 Dunn P, Albury CL, Maksemous N, **Benton MC**, Sutherland HG, Smith RA, Haupt LM, and Griffiths LR. (2018) Next Generation Sequencing Methods for Diagnosis of Epilepsy Syndromes. *Frontiers in Genetics* (accepted 16th Janurary)
 
 Kho PF, Lea RA, **Benton MC**, Eccles DA, Haupt LM, Hewitt AW, Sherwin JC, Mackey DA, and Griffiths LR. (2018) Expression QTL analysis of glaucoma endophenotypes in the Norfolk Island isolate provides evidence that immune-related genes are associated with optic disc size. *Journal of Human Genetics* 63 [DOI:10.1038/s10038-017-0374-y]
