@@ -127,7 +127,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 <!-- ### Journals -->
 `2018`
-Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
+Bradshaw G, Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
 
 Dunn P, Albury CL, Maksemous N, **Benton MC**, Sutherland HG, Smith RA, Haupt LM, and Griffiths LR. (2018) Next Generation Sequencing Methods for Diagnosis of Epilepsy Syndromes. *Frontiers in Genetics* (accepted 16th Janurary)
 
