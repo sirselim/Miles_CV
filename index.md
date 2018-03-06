@@ -8,7 +8,7 @@ Bioinformatics PhD and data scientist
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">miles.benton84@gmail.com</a>
 |
-<i class="fa fa-home"></i> <a href="http://sirselim.github.io/">personal website</a>
+<i class="fa fa-home"></i> <a href="http://sirselim.github.io/about/">personal website</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/sirselim">sirselim</a>
 |
