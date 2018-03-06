@@ -18,7 +18,7 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I am Postdoc Research Fellow at [QUT](https://www.qut.edu.au/institute-of-health-and-biomedical-innovation) working on the creation of methods to deal with, and analyse, large genomic data sets. These methods include the incorporation of multiple layers of both phenotypic and genomic data. I work on a range of complex human disorders, including; obesity and type-2 diabetes, multiple sclerosis, glaucoma, migraine, ovarian cancer and asthma. I am also leading the development of diagnostic and research pipelines for visualisation and translational interpretation of data from sequencing based approaches.
+I am currently a Postdoc Research Fellow at [QUT](https://www.qut.edu.au/institute-of-health-and-biomedical-innovation) working on the creation of methods to deal with, and analyse, large genomic data sets. These methods include the incorporation of multiple layers of both phenotypic and genomic data. I work on a range of complex human disorders, including; obesity and type-2 diabetes, multiple sclerosis, glaucoma, migraine, ovarian cancer and asthma. I am also leading the development of diagnostic and research pipelines for visualisation and translational interpretation of data from sequencing based approaches.
 
 ## Professional Positions Held
 
