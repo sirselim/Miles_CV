@@ -119,14 +119,16 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __29__	
+* Journal articles: __30__	
 * H-index: __11__
-* Citations: __421__
+* Citations: __435__
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
+Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* (accepted, awaitinng publication)
+
 Bradshaw G, Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
 
 Dunn P, Albury CL, Maksemous N, **Benton MC**, Sutherland HG, Smith RA, Haupt LM, and Griffiths LR. (2018) Next Generation Sequencing Methods for Diagnosis of Epilepsy Syndromes. *Frontiers in Genetics* (accepted 16th Janurary)
@@ -305,4 +307,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: August 2017 -->
+Last updated: 3rd April 2018 -->
