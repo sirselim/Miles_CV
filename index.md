@@ -121,13 +121,13 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __30__	
 * H-index: __11__
-* Citations: __435__
+* Citations: __437__
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
-Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* (accepted, awaiting publication)
+Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* 2(2) [DOI:10.21926/obm.genet.1802016]
 
 Bradshaw G, Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
 
