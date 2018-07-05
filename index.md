@@ -28,7 +28,7 @@ __Institute of Environmental Science and Research__ Senior Scientist, Bioinforma
 `2014-2018` 
 __Queensland University of Technology__ Postdoc Research Fellow, Bioinformatics
 
-`2013-` 
+`2013-2014` 
 __Environmental Science Research (ESR)__ Honorary Senior Scientist (Bioinformatics)
 
 `2011-` 
