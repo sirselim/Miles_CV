@@ -18,11 +18,14 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I am currently a Postdoc Research Fellow at [QUT](https://www.qut.edu.au/institute-of-health-and-biomedical-innovation) working on the creation of methods to deal with, and analyse, large genomic data sets. These methods include the incorporation of multiple layers of both phenotypic and genomic data. I work on a range of complex human disorders, including; obesity and type-2 diabetes, multiple sclerosis, glaucoma, migraine, ovarian cancer and asthma. I am also leading the development of diagnostic and research pipelines for visualisation and translational interpretation of data from sequencing based approaches.
+I am currently working at ESR (Institute of Environmental Science and Research) as a Senior Scientist in Bioinformatics and Data Science. My work involves the creation of methods to deal with, and analyse, large genomic data sets. These methods include the incorporation of multiple layers of both phenotypic and genomic data. I work on a range of complex human disorders, including; obesity and type-2 diabetes, multiple sclerosis, glaucoma, migraine, ovarian cancer and asthma. I am also leading the development of diagnostic and research pipelines for visualisation and translational interpretation of data from sequencing based approaches.
 
 ## Professional Positions Held
 
-`2014-` 
+`2018-` 
+__Institute of Environmental Science and Research__ Senior Scientist, Bioinformatics / Data Science
+
+`2014-2018` 
 __Queensland University of Technology__ Postdoc Research Fellow, Bioinformatics
 
 `2013-` 
@@ -120,13 +123,19 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publication Metrics
 
 * Journal articles: __30__	
-* H-index: __11__
-* Citations: __437__
+* H-index: __12__
+* Citations: __482__
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2018) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genetics in Medicine* (under review)
+
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2018) DNA methylation in blood - potential to provide new insights in immune cell biology. *Scientific Reports* (under review)
+
+MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) A hypermethylated region in the promoter of the lymphotoxin-alpha gene in CD19+ B cells is associated with multiple sclerosis. *Scientific Reports* (under revision)
+
 Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* 2(2) [DOI:10.21926/obm.genet.1802016]
 
 Bradshaw G, Lualhati RL, Albury CL, Maksemous N, Roos-Araujo D, Smith RA, **Benton MC**, Eccles DA, Lea RA, Sutherland HG, Haupt LM and Griffiths LR. (2018) Exome sequencing diagnoses X-linked moesin-associated immunodeficiency in a primary immunodeficiency case. *Frontiers in Immunology* 9
