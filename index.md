@@ -122,19 +122,19 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __30__	
+* Journal articles: __33__	
 * H-index: __12__
-* Citations: __482__
+* Citations: __523__
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2018) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genetics in Medicine* (under review)
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2018) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (under submision)
 
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2018) DNA methylation in blood - potential to provide new insights in immune cell biology. *Scientific Reports* (under review)
 
-MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) A hypermethylated region in the promoter of the lymphotoxin-alpha gene in CD19+ B cells is associated with multiple sclerosis. *Scientific Reports* (under revision)
+MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) A hypermethylated region in the promoter of the lymphotoxin-alpha gene in CD19+ B cells is associated with multiple sclerosis. *Scientific Reports* (accepted, 18th Oct 2018)
 
 Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* 2(2) [DOI:10.21926/obm.genet.1802016]
 
@@ -206,6 +206,11 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 ## Presentations
 
 ### Conference Talks
+
+`2018`
+**Benton MC**. VCF-DART (VCF Diagnostic Annotation and Reporting Tool). Bioinformatics meeting (Queenstown Research Week), Queenstown, NZ, August 30th-31st.
+
+**Benton MC**. My journey through genetics - wetlab to cafe. CLNR580 Plenary, Wellington, NZ, August 4th.
 
 `2017`
 **Benton MC**. The ‘omic coal face: classifying human genomic and epigenomic inheritance. IHBI Inspires 2017, Brisbane, Australia, August 23rd-25th.
