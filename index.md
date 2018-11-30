@@ -124,7 +124,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __33__	
 * H-index: __12__
-* Citations: __523__
+* Citations: __541__
 
 ## Publications
 
@@ -132,9 +132,11 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 `2018`
 **Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2018) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (under submision)
 
-Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2018) DNA methylation in blood - potential to provide new insights in immune cell biology. *Scientific Reports* (under review)
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2018) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
 
-MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) A hypermethylated region in the promoter of the lymphotoxin-alpha gene in CD19+ B cells is associated with multiple sclerosis. *Scientific Reports* (accepted, 18th Oct 2018)
+Kennedy D, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. 2018 Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
+
+MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) Genome-wide DNA methylation changes in CD19+ B cells from relapsing-remitting multiple sclerosis patients. *Scientific Reports* (published 27th November 2018)
 
 Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* 2(2) [DOI:10.21926/obm.genet.1802016]
 
