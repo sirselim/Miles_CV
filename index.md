@@ -3,7 +3,7 @@ layout: cv
 title: Miles Benton's CV
 ---
 # Miles C. Benton
-Bioinformatics PhD and data scientist
+Bioinformatics PhD and Data Scientist
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">miles.benton84@gmail.com</a>
@@ -61,7 +61,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * Git / GitHub
 * UNIX
 * Machine learning
-* Bash
+* Bash / Shell scripting
 * Python
 * Inkscape / Gimp
 * Data visualisation
