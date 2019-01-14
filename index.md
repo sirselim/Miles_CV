@@ -122,9 +122,9 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __33__	
+* Journal articles: __36__	
 * H-index: __12__
-* Citations: __541__
+* Citations: __564__
 
 ## Publications
 
