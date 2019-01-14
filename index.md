@@ -129,11 +129,16 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publications
 
 <!-- ### Journals -->
+`2019`
+Kennedy DW, Mengersen K, **Benton MC**, Lea RL and White NM. 2019 Bayesian inference for methylation-based cell-type composition estimation. *BMC Bioinformatics* (under submission)
+
+**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
+
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genome Medicine* (under submision)
+
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
+
 `2018`
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2018) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (under submision)
-
-Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2018) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
-
 Kennedy D, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. 2018 Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
 
 MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) Genome-wide DNA methylation changes in CD19+ B cells from relapsing-remitting multiple sclerosis patients. *Scientific Reports* (published 27th November 2018)
