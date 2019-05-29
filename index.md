@@ -22,6 +22,9 @@ I am currently working at [ESR](https://www.esr.cri.nz/) (Institute of Environme
 
 ## Professional Positions Held
 
+`2019-`
+__Genomics Aotearoa__ Bioinformatics Leadership Team (Health)
+
 `2018-` 
 __Institute of Environmental Science and Research__ Senior Scientist, Bioinformatics / Data Science
 
@@ -64,7 +67,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * Bash / Shell scripting
 * Python
 * Inkscape / Gimp
-* Data visualisation
+* Data visualisation (ggplot2/d3/vegalite)
 * Cluster computing
 * HTML and CSS
 * Javascript
@@ -123,8 +126,8 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publication Metrics
 
 * Journal articles: __36__	
-* H-index: __12__
-* Citations: __564__
+* H-index: __14__
+* Citations: __623__
 
 ## Publications
 
