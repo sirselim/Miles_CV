@@ -137,7 +137,7 @@ Kennedy DW, Mengersen K, **Benton MC**, Lea RL and White NM. 2019 Bayesian infer
 
 **Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
 
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genome Medicine* (under submision)
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genome Medicine* (under revision)
 
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
 
