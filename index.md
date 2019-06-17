@@ -65,7 +65,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * UNIX
 * Machine learning
 * Bash / Shell scripting
-* Python
+* Python / Snakemake
 * Inkscape / Gimp
 * Data visualisation (ggplot2/d3/vegalite)
 * Cluster computing
@@ -127,17 +127,17 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __36__	
 * H-index: __14__
-* Citations: __623__
+* Citations: __633__
 
 ## Publications
 
 <!-- ### Journals -->
 `2019`
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (accepted)
+
 Kennedy DW, Mengersen K, **Benton MC**, Lea RL and White NM. 2019 Bayesian inference for methylation-based cell-type composition estimation. *BMC Bioinformatics* (under submission)
 
 **Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
-
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Genome Medicine* (under revision)
 
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
 
