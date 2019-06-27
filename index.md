@@ -81,6 +81,9 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Professional Memberships
 
+`2019 -`
+Memeber Human Genomics Society of Australasia
+
 `2015 -`
 Ad hoc reviewer, PLoS One, BMC Medical Genetics, Gene
 
@@ -127,7 +130,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __36__	
 * H-index: __14__
-* Citations: __633__
+* Citations: __638__
 
 ## Publications
 
@@ -135,11 +138,13 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 `2019`
 **Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (accepted)
 
-Kennedy DW, Mengersen K, **Benton MC**, Lea RL and White NM. 2019 Bayesian inference for methylation-based cell-type composition estimation. *BMC Bioinformatics* (under submission)
+Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. 2019 Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (doi: https://doi.org/10.1101/682070)
 
+<!--
 **Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
 
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
+-->
 
 `2018`
 Kennedy D, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. 2018 Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
