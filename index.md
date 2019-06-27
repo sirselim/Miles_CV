@@ -82,7 +82,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 ### Professional Memberships
 
 `2019 -`
-Memeber Human Genomics Society of Australasia
+Member Human Genomics Society of Australasia
 
 `2015 -`
 Ad hoc reviewer, PLoS One, BMC Medical Genetics, Gene
