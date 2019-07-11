@@ -77,6 +77,10 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Research Grants
 
+`2019`	PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
+
+`2019`	PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
+
 `2015` PI. Wellington Medical Research Foundation: "*Validation of Blood Cell Lineage Specific DNA methylation markers.*"
 
 ### Professional Memberships
@@ -122,6 +126,9 @@ _ESR Masters Research Scholarship_
 
 ### Supervision
 
+`2018` Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
+	   Secondary Supervisor – Bioinformatics Honors Student (QUT)
+
 `2016` Completed QUT Effective Supervisory Practices Level 1 <br>
 A course designed to walk Research Supervisors through the frameworks and pragmatic issues associated with supervising in today's research environment; ultimately to provide them with effective and essential tools for their supervisory tool kit.
 
@@ -130,7 +137,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __36__	
 * H-index: __14__
-* Citations: __638__
+* Citations: __639__
 
 ## Publications
 
