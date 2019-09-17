@@ -145,6 +145,11 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 <!-- ### Journals -->
 `2019`
+
+Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2019) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (under revision)
+
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
+
 **Benton MC**, Lea RA, Macartney-Coxson D, Sutherland HG, White NM, Kennedy DW, Mengersen K, Haupt LM, and Griffiths LR. (2019) Genome-wide allele-specific methylation is enriched at gene regulatory regions in a multi-generation pedigree from the Norfolk Island isolate. *Epigenetics and Chromatin* (accepted 16th Sept 2019)
 
 **Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* (In Press, Journal Pre-proof, Available online 20 August 2019) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
@@ -152,9 +157,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. (2019) Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (DOI: https://doi.org/10.1101/682070)
 
 <!--
-**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
-
-Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *Frontiers in Immunology* (under submission)
+**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function.
 -->
 
 `2018`
