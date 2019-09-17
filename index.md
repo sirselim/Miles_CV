@@ -63,12 +63,12 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * Markdown / RMarkdown
 * Git / GitHub
 * UNIX
-* Machine learning
+* Machine learning / Deep learning
 * Bash / Shell scripting
 * Python / Snakemake
 * Inkscape / Gimp
 * Data visualisation (ggplot2/d3/vegalite)
-* Cluster computing
+* Cluster computing / GPU computing
 * HTML and CSS
 * Javascript
 
@@ -138,16 +138,18 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publication Metrics
 
 * Journal articles: __36__	
-* H-index: __14__
-* Citations: __639__
+* H-index: __15__
+* Citations: __677__
 
 ## Publications
 
 <!-- ### Journals -->
 `2019`
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) A Customisable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data. *Journal of Molecular Diagnostics* (accepted)
+**Benton MC**, Lea RA, Macartney-Coxson D, Sutherland HG, White NM, Kennedy DW, Mengersen K, Haupt LM, and Griffiths LR. (2019) Genome-wide allele-specific methylation is enriched at gene regulatory regions in a multi-generation pedigree from the Norfolk Island isolate. *Epigenetics and Chromatin* (accepted 16th Sept 2019)
 
-Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. 2019 Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (doi: https://doi.org/10.1101/682070)
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* (In Press, Journal Pre-proof, Available online 20 August 2019) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
+
+Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. (2019) Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (DOI: https://doi.org/10.1101/682070)
 
 <!--
 **Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function. *Genome Biology* (under submision)
@@ -156,9 +158,9 @@ Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylat
 -->
 
 `2018`
-Kennedy D, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. 2018 Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
+Kennedy DW, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. (2018) Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
 
-MaltbyV, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) Genome-wide DNA methylation changes in CD19+ B cells from relapsing-remitting multiple sclerosis patients. *Scientific Reports* (published 27th November 2018)
+Maltby V, Lea RA, Graves M, Sanders K, **Benton MC**, Tajouri L, Scott R, and Lechner-Scott J. (2018) Genome-wide DNA methylation changes in CD19+ B cells from relapsing-remitting multiple sclerosis patients. *Scientific Reports* (published 27th November 2018)
 
 Aquino EM, **Benton MC**, Haupt LM, Sutherland HG, Griffiths LR, and Lea RA. (2018) Current understanding of DNA methylation and age-related disease. *OBM Genetics* 2(2) [DOI:10.21926/obm.genet.1802016]
 
@@ -230,6 +232,11 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 ## Presentations
 
 ### Conference Talks
+
+`2019`
+**Benton MC**. The Humble Guinea Pig: Cute, Furry and Deserving of a Better Genome Assembly? Queenstown Research Week, Queenstown, NZ, August 6th 2019.
+
+**Benton MC**. A Customisable Analysis Pipeline for the Identification of Clinically Relevant Genetic Variants in Next Generation Sequencing Data Human Genetics Society of Australasia, Wellington, NZ, August 3rd-6th 2019.
 
 `2018`
 **Benton MC**. VCF-DART (VCF Diagnostic Annotation and Reporting Tool). Bioinformatics meeting (Queenstown Research Week), Queenstown, NZ, August 30th-31st.
@@ -322,6 +329,8 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 
 ### Other dissemination
 
+**Benton MC**. Genomics and Data Science at ESR ...something a little different... University of Otago, Dunedin, NZ, August 20th 2019.
+
 **Benton MC**. Online Resources, Databases and Clinical Data Management Wellington Hospital, Wellington, New Zealand, July 12th 2017.
 
 **Benton MC**. My journey - how bioinformatics changed my worldview: the many platforms, data types and analyses I've learnt along the way… and other general ramblings. Invited speaker, CMB Friday seminar series, Vitoria University of Wellington, Wellington, New Zealand, 6th Novemember 2015. 
@@ -345,4 +354,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: 3rd April 2018 -->
+Last updated: 17th Sept 2019 -->
