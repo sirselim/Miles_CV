@@ -144,7 +144,8 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publications
 
 <!-- ### Journals -->
-'2020'
+
+`2020`
 
 Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2019) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (accepted 30th October 2019)
 
