@@ -138,25 +138,29 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publication Metrics
 
 * Journal articles: __39__	
-* H-index: __15__
-* Citations: __715__
+* H-index: __16__
+* Citations: __775__
 
 ## Publications
 
 <!-- ### Journals -->
+'2020'
+
+Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2019) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (accepted 30th October 2019)
+
+<!--
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
+-->
+
 `2019`
 
 Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC**, Macartney-Coxson D, and Kennedy MA. (2019) Genome-wide DNA methylation analysis of heavy cannabis exposure in a New Zealand longitudinal cohort. *bioRxiv* http://biorxiv.org/content/early/2019/11/07/829598.abstract
 
-Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland HG, Allcock RJ, Lea RA, Haupt LM, and Griffiths LR. (2019) Ion torrent high throughput mitochondrial genome sequencing (HTMGS). *PLoS ONE* (accepted Novemeber 2nd 2019)
+Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland HG, Allcock RJ, Lea RA, Haupt LM, and Griffiths LR. (2019) Ion torrent high throughput mitochondrial genome sequencing (HTMGS). *PLoS ONE* 14(11):e0224847
 
-Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2019) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (accepted 30th October 2019)
+**Benton MC**, Lea RA, Macartney-Coxson D, Sutherland HG, White NM, Kennedy DW, Mengersen K, Haupt LM, and Griffiths LR. (2019) Genome-wide allele-specific methylation is enriched at gene regulatory regions in a multi-generation pedigree from the Norfolk Island isolate. *Epigenetics and Chromatin* 12(60)
 
-Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
-
-**Benton MC**, Lea RA, Macartney-Coxson D, Sutherland HG, White NM, Kennedy DW, Mengersen K, Haupt LM, and Griffiths LR. (2019) Genome-wide allele-specific methylation is enriched at gene regulatory regions in a multi-generation pedigree from the Norfolk Island isolate. *Epigenetics and Chromatin* (accepted 16th Sept 2019)
-
-**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* (In Press, Journal Pre-proof, Available online 20 August 2019) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
+**Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* 21(6) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
 
 Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. (2019) Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (DOI: https://doi.org/10.1101/682070)
 
