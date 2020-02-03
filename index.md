@@ -147,7 +147,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 `2020`
 
-Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2019) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (accepted 30th October 2019)
+Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2020) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (epub 2020)
 
 <!--
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
