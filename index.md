@@ -147,15 +147,21 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 `2020`
 
+Harvey NR, Voisin S, Lea RA, Yan X, **MC Benton**, Papadimitriou ID, Jacques M, Haupt LM, Ashton KJ, Eynon N, Griffiths and LR. (2020) Identification of novel mitochondrial and mitochondrial related genetic loci associated with exercise response in the Gene SMART study. *biorxiv* (DOI: https://doi.org/10.1101/2020.02.20.957340)
+
 Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2020) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (epub 2020)
 
 <!--
 Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
 -->
 
+<!--
+**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function.
+-->
+
 `2019`
 
-Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC**, Macartney-Coxson D, and Kennedy MA. (2019) Genome-wide DNA methylation analysis of heavy cannabis exposure in a New Zealand longitudinal cohort. *bioRxiv* http://biorxiv.org/content/early/2019/11/07/829598.abstract
+Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC**, Macartney-Coxson D, and Kennedy MA. (2019) Genome-wide DNA methylation analysis of heavy cannabis exposure in a New Zealand longitudinal cohort. *bioRxiv* http://biorxiv.org/content/early/2019/11/07/829598.abstract (accepted: *Translational Psychiatry*)
 
 Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland HG, Allcock RJ, Lea RA, Haupt LM, and Griffiths LR. (2019) Ion torrent high throughput mitochondrial genome sequencing (HTMGS). *PLoS ONE* 14(11):e0224847
 
@@ -164,10 +170,6 @@ Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland
 **Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* 21(6) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
 
 Kennedy DW, White NM, **Benton MC**, Lea RL and Mengersen K. (2019) Cell-type specific analysis of heterogeneous methylation signal using a Bayesian model-based approach. *biorxiv* (DOI: https://doi.org/10.1101/682070)
-
-<!--
-**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function.
--->
 
 `2018`
 Kennedy DW, White NM, **Benton MC**, Fox A, Scott R, Griffiths LR, Mengersen KL and Lea RA. (2018) Critical evaluation of linear regression models for cell-subtype specific methylation signal from mixed blood cell DNA. *PLoS ONE* (accepted 27th Nov 2018)
