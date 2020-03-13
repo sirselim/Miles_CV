@@ -77,11 +77,13 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Research Grants
 
-`2019`	PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
+`2019`  co-PI, ESR Pioneer Funding: *Engineering, Robotics, Innovation, Coding and Automation code club pilot plus portable sequencers and remote sensors*
 
-`2019`	PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
+`2019`  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
 
-`2015` PI. Wellington Medical Research Foundation: "*Validation of Blood Cell Lineage Specific DNA methylation markers.*"
+`2019`  PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
+
+`2015`  PI. Wellington Medical Research Foundation: "*Validation of Blood Cell Lineage Specific DNA methylation markers.*"
 
 ### Professional Memberships
 
@@ -96,6 +98,14 @@ Reviewer National Health and Medical Research Council, Australia
 
 `2014 -` 
 Member Australasian Genomic Technologies Association (AGTA).
+
+### Leadership
+
+`2019`
+
+Mentor for the Royal Society Te Apārangi Powering Potential programme
+
+MapNet 2019 Victoria University of Wellington - Organising committee member
 
 ### Honours and Distinctions
 
@@ -126,26 +136,31 @@ _ESR Masters Research Scholarship_
 
 ### Supervision
 
-`2018` 
+`2020 - ongoing` 
+Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
+
+`2018 - ongoing` 
 Co-supervisor - Bioinformatics PhD student (Otago University/ESR)  
-	   
+
+`2018 - completed`
 Secondary Supervisor – Bioinformatics Honors Student (QUT)
 
 `2016` Completed QUT Effective Supervisory Practices Level 1 <br>
 A course designed to walk Research Supervisors through the frameworks and pragmatic issues associated with supervising in today's research environment; ultimately to provide them with effective and essential tools for their supervisory tool kit.
 
-
 ## Publication Metrics
 
-* Journal articles: __39__	
+* Journal articles: __40__	
 * H-index: __16__
-* Citations: __775__
+* Citations: __807__
 
 ## Publications
 
 <!-- ### Journals -->
 
 `2020`
+
+Dunn PJ, Maher BH, Albury CL, Stuart S, Sutherland HG, Maksemous N, **Benton MC**, Smith, RA, Haupt LM, and Griffiths LR. (2020) Tiered analysis of whole-exome sequencing for epilepsy diagnosis. *Molecular Genetics and Genomics* https://doi.org/10.1007/s00438-020-01657-x
 
 Harvey NR, Voisin S, Lea RA, Yan X, **MC Benton**, Papadimitriou ID, Jacques M, Haupt LM, Ashton KJ, Eynon N, Griffiths and LR. (2020) Identification of novel mitochondrial and mitochondrial related genetic loci associated with exercise response in the Gene SMART study. *biorxiv* (DOI: https://doi.org/10.1101/2020.02.20.957340)
 
