@@ -150,9 +150,9 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __40__	
+* Journal articles: __41__	
 * H-index: __16__
-* Citations: __807__
+* Citations: __830__
 
 ## Publications
 
@@ -181,6 +181,8 @@ Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC*
 Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland HG, Allcock RJ, Lea RA, Haupt LM, and Griffiths LR. (2019) Ion torrent high throughput mitochondrial genome sequencing (HTMGS). *PLoS ONE* 14(11):e0224847
 
 **Benton MC**, Lea RA, Macartney-Coxson D, Sutherland HG, White NM, Kennedy DW, Mengersen K, Haupt LM, and Griffiths LR. (2019) Genome-wide allele-specific methylation is enriched at gene regulatory regions in a multi-generation pedigree from the Norfolk Island isolate. *Epigenetics and Chromatin* 12(60)
+
+Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. PREPRINT (Version 1) available at *Research Square* [DOI: https://doi.org/10.21203/rs.2.13274/v1]
 
 **Benton MC**, Smith RA, Haupt LM, Albury CL, Maksemous N, Lea RA, and Griffiths LR. (2019) Variant Call Format (VCF)-Diagnostic Annotation and Reporting Tool (VCF-DART) A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data. *Journal of Molecular Diagnostics* 21(6) [DOI: https://doi.org/10.1016/j.jmoldx.2019.07.001]
 
