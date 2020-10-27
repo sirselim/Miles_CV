@@ -260,6 +260,9 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 
 ### Conference Talks
 
+`2020`
+**Benton MC**. Assessing the potential of autonomous AI devices for portable real-time sequencing eResearch. Dunedin, NZ, February 12th-14th 2020.
+
 `2019`
 **Benton MC**. The Humble Guinea Pig: Cute, Furry and Deserving of a Better Genome Assembly? Queenstown Research Week, Queenstown, NZ, August 6th 2019.
 
@@ -356,6 +359,8 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 **Benton MC**, Macartney-Coxson D, Eccles D, Griffiths L, Chambers GK, Lea RA. A Mitochondrial Genome Scan for Thrifty Genes in Maori. WHBRS 2010, Wellington, New Zealand. [PDF]
 
 ### Other dissemination
+
+**Benton MC**. Clinical Genomics: Customisable Analysis Workflows for Identification of Clinically Relevant Genetic Variants - An Update. Otago Genetics Seminar, University of Otago, Dunedin, NZ, August 24th 2020.
 
 **Benton MC**. Genomics and Data Science at ESR ...something a little different... University of Otago, Dunedin, NZ, August 20th 2019.
 
