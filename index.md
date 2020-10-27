@@ -6,7 +6,9 @@ title: Miles Benton's CV
 Bioinformatics PhD and Data Scientist
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">miles.benton84@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:miles.benton@esr.cri.nz">work</a>
+|
+<i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">personal</a>
 |
 <i class="fa fa-home"></i> <a href="http://sirselim.github.io/about/">personal website</a>
 |
