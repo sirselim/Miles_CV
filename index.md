@@ -150,9 +150,9 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __41__	
-* H-index: __16__
-* Citations: __830__
+* Journal articles: __43__	
+* H-index: __17__
+* Citations: __941__
 
 ## Publications
 
@@ -160,23 +160,19 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 `2020`
 
+Macartney-Coxson D, Cameron AM, Clapham J, and **Benton MC**. (2020) DNA methylation in blood-potential to provide new insights in immune cell biology. *PLoS ONE* (accepted, awaiting publication)
+
+Harvey NR, Voisin S, Lea RA, Yan X, **MC Benton**, Papadimitriou ID, Jacques M, Haupt LM, Ashton KJ, Eynon N, Griffiths and LR. Investigating the influence of mtDNA and nuclear encoded mitochondrial variants on high intensity interval training outcomes. (2020) *Scientific Reports* 10(1)
+
 Dunn PJ, Maher BH, Albury CL, Stuart S, Sutherland HG, Maksemous N, **Benton MC**, Smith, RA, Haupt LM, and Griffiths LR. (2020) Tiered analysis of whole-exome sequencing for epilepsy diagnosis. *Molecular Genetics and Genomics* https://doi.org/10.1007/s00438-020-01657-x
 
 Harvey NR, Voisin S, Lea RA, Yan X, **MC Benton**, Papadimitriou ID, Jacques M, Haupt LM, Ashton KJ, Eynon N, Griffiths and LR. (2020) Identification of novel mitochondrial and mitochondrial related genetic loci associated with exercise response in the Gene SMART study. *biorxiv* (DOI: https://doi.org/10.1101/2020.02.20.957340)
 
 Macartney-Coxson D, Danielson K, Clapham J, **Benton MC**, Johnstone A, Jones A, Shaw O, Hagan RD, Hoffman EP, Hayes M, Harper J, Langston MA, and Stubbs RS. (2020) MicroRNA profiling in adipose before and after weight-loss highlights the role of miR-223-3p and the NLRP3 inflammasome. *Obesity* (epub 2020)
 
-<!--
-Macartney-Coxson D, Cameron A, Clapham J, and **Benton MC**. (2019) DNA methylation in blood - potential to provide new insights in immune cell biology. *BMC Genomics* (under review)
--->
-
-<!--
-**Benton MC**, Black MA, Clapham J, Stubbs RS, and Macartney-Coxson D. 2019 Transcriptional and DNA methylome analysis of the jejunum in individuals with and without type-two diabetes highlights genes involved in glucose homeostasis and pancreatic function.
--->
+Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC**, Macartney-Coxson D, and Kennedy MA. (2020) Genome-wide DNA methylation analysis of heavy cannabis exposure in a New Zealand longitudinal cohort. *Translational Psychiatry* 10(1)
 
 `2019`
-
-Osborne AJ, Pearson JF, Noble AJ, Gemmell NJ, Horwood LJ, Boden JM, **Benton MC**, Macartney-Coxson D, and Kennedy MA. (2019) Genome-wide DNA methylation analysis of heavy cannabis exposure in a New Zealand longitudinal cohort. *bioRxiv* http://biorxiv.org/content/early/2019/11/07/829598.abstract (accepted: *Translational Psychiatry*)
 
 Harvey NR, Albury CL, Stuart S, **Benton MC**, Ecccles DA, Connell J, Sutherland HG, Allcock RJ, Lea RA, Haupt LM, and Griffiths LR. (2019) Ion torrent high throughput mitochondrial genome sequencing (HTMGS). *PLoS ONE* 14(11):e0224847
 
@@ -259,6 +255,7 @@ Stuart S, Maher BH, Sutherland H, **Benton MC**, Rodriguez A, Lea RA, Haupt LM a
 
 Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J, Charlesworth JC, Buring JE, Kurth T, Chasman DI, Ridker PM, Schürks M, Blangero J and Griffiths LR. (2012) An X Chromosome Association Scan of the Norfolk Island Genetic Isolate Provides Evidence for a Novel Migraine Susceptibility Locus at Xq12. *PLoS ONE* 7(5): e37903
 
+<!-- ### Talks/Presentations -->
 
 ## Presentations
 
@@ -315,6 +312,7 @@ Graves MC, **Benton MC**, Lea RA, Boyle M, Tajouri L, Macartney-Coxson D, Scott 
 `2011`
 **Benton MC**, Lea RA, Macartney-Coxson D, Cox H, Hanna M, Eccles D, Chambers GK, Griffiths L. A Phenome Scan for Metabolic Syndrome in the Norfolk Island Isolate. Goldcoast Health and Medical Research Council Conference 2011. 
 
+<!-- ### Scientific posters -->
 
 ### Posters
 
@@ -385,4 +383,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: 17th Sept 2019 -->
+Last updated: 27th Oct 2020 -->
