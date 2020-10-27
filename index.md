@@ -15,10 +15,9 @@ Bioinformatics PhD and Data Scientist
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/miles_benton">@miles_benton</a>
 </div>
 
-
 ## Currently
 
-I am currently working at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research) as a Senior Scientist in Bioinformatics and Data Science. My work involves the creation of methods to deal with, and analyse, large genomic data sets. These methods include the incorporation of multiple layers of both phenotypic and genomic data. I work on a range of complex human disorders, including; obesity and type-2 diabetes, multiple sclerosis, glaucoma, migraine, ovarian cancer and asthma. I am also leading the development of diagnostic and research pipelines for visualisation and translational interpretation of data from sequencing based approaches.
+My current role is as a Senior Scientist at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a post doc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
 
 ## Professional Positions Held
 
@@ -53,7 +52,6 @@ Thesis: “*Mitochondrial Genome Variation and Metabolic Traits in a Maori Commu
 `2004-07`
 __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: Human Genetics, Molecular Pathology_)
 
-
 ## Technical skills
 
 * R
@@ -71,7 +69,6 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * Cluster computing / GPU computing
 * HTML and CSS
 * Javascript
-
 
 ## Distinctions and Memberships
 
