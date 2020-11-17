@@ -151,7 +151,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __43__	
 * H-index: __17__
-* Citations: __941__
+* Citations: __962__
 
 ## Publications
 
@@ -159,7 +159,7 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 `2020`
 
-Macartney-Coxson D, Cameron AM, Clapham J, and **Benton MC**. (2020) DNA methylation in blood-potential to provide new insights in immune cell biology. *PLoS ONE* (accepted, awaiting publication)
+Macartney-Coxson D, Cameron AM, Clapham J, and **Benton MC**. (2020) DNA methylation in blood-potential to provide new insights in immune cell biology. *PLOS ONE* 15(11): e0241367
 
 Harvey NR, Voisin S, Lea RA, Yan X, **MC Benton**, Papadimitriou ID, Jacques M, Haupt LM, Ashton KJ, Eynon N, Griffiths and LR. Investigating the influence of mtDNA and nuclear encoded mitochondrial variants on high intensity interval training outcomes. (2020) *Scientific Reports* 10(1)
 
