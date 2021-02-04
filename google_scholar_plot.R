@@ -6,7 +6,7 @@ library(ggplot2)
 
 cit <- get_citation_history('iEhBavEAAAAJ')
 
-png('/home/miles/gitrepos/Miles_CV/scholar_plot/scholar_citations_iEhBavEAAAAJ.png', width=800, height=300, res=150)
+png('./scholar_plot/scholar_citations_iEhBavEAAAAJ.png', width=800, height=300, res=150)
 ggplot(cit,aes(x=year,y=cites)) +
   geom_bar(stat='identity', width = 0.4, fill = "#015eaa") +
   theme_bw() +

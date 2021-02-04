@@ -76,9 +76,11 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Research Grants
 
+`2020` co-PI, ESR Pioneer Funding: *Harnessing the disruptive nature of portable sequencing for community empowerment*
+
 `2019`  co-PI, ESR Pioneer Funding: *Engineering, Robotics, Innovation, Coding and Automation code club pilot plus portable sequencers and remote sensors*
 
-`2019`  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
+`2019 - `  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
 
 `2019`  PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
 
@@ -139,7 +141,7 @@ _ESR Masters Research Scholarship_
 Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
 
 `2018 - ongoing` 
-Co-supervisor - Bioinformatics PhD student (Otago University/ESR)  
+Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
 
 `2018 - completed`
 Secondary Supervisor – Bioinformatics Honors Student (QUT)
@@ -151,11 +153,15 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 * Journal articles: __43__
 * H-index: __17__
-* Citations: __962__
+* Citations: __1006__
 
 ## Publications
 
 <!-- ### Journals -->
+
+`2021`
+
+Cao TV, Lea RA, Sutherland HG, **Benton MC**, Pishva SR, Haupt LM, and Griffiths LR. (2021) A genome-wide methylation study of body fat traits in the Norfolk Island Isolate. *Nutrition, Metabolism and Cardiovascular Diseases* (Accepted, awaiting publication)
 
 `2020`
 
