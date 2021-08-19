@@ -19,7 +19,7 @@ Bioinformatics PhD and Data Scientist
 
 ## Currently
 
-My current role is as a Senior Scientist at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a post doc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
+My current role is as a Senior Scientist at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
 
 ## Professional Positions Held
 
@@ -88,6 +88,9 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Professional Memberships
 
+`2020 -`
+Certified Carpentries Instructor.
+
 `2019 -`
 Member Human Genomics Society of Australasia
 
@@ -102,11 +105,17 @@ Member Australasian Genomic Technologies Association (AGTA).
 
 ### Leadership
 
+`2021`
+
+Queenstown Molecular Biology Research Week, Queenstown - Organising committee member
+
+eResearch 2021, Victoria University of Wellington - Organising committee member
+
 `2019`
 
 Mentor for the Royal Society Te Apārangi Powering Potential programme
 
-MapNet 2019 Victoria University of Wellington - Organising committee member
+MapNet 2019, Victoria University of Wellington - Organising committee member
 
 ### Honours and Distinctions
 
@@ -152,8 +161,8 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 ## Publication Metrics
 
 * Journal articles: __43__
-* H-index: __17__
-* Citations: __1006__
+* H-index: __18__
+* Citations: __1168__
 
 ## Publications
 
@@ -266,7 +275,16 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 
 ### Conference Talks
 
+`2021`
+
+**Benton MC**. The disruptive nature of portable sequencing. Nvidia Spring GPU Technology Conference (GTC), 12th - 16th April 2021, Online Virtual Conference.
+
+**Benton MC**. Harnessing the disruptive nature of portable sequencing for community empowerment. eResearch, 11th Feburary 2021, Victoria University of Wellington.
+
 `2020`
+
+**Benton MC**. Harnessing the disruptive nature of portable sequencing for community empowerment. Auckland Research Bazaar, 24th November 2020, Virtual Seminar.
+
 **Benton MC**. Assessing the potential of autonomous AI devices for portable real-time sequencing eResearch. Dunedin, NZ, February 12th-14th 2020.
 
 `2019`
@@ -366,6 +384,10 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 
 ### Other dissemination
 
+**Benton MC**. Something a little bit different… CLNR 401 Plenary, 6th March 2021, Victoria University of Wellington.
+
+**Benton MC**. and de Ligt J. Genomics at the frontline - the power of GPUs. ESR Data Science Week 2020, Virtual Presentation, 24th September 2020.
+
 **Benton MC**. Clinical Genomics: Customisable Analysis Workflows for Identification of Clinically Relevant Genetic Variants - An Update. Otago Genetics Seminar, University of Otago, Dunedin, NZ, August 24th 2020.
 
 **Benton MC**. Genomics and Data Science at ESR ...something a little different... University of Otago, Dunedin, NZ, August 20th 2019.
@@ -393,4 +415,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: 27th Oct 2020 -->
+Last updated: 19th Aug 2021 -->
