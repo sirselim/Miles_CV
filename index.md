@@ -19,7 +19,7 @@ Bioinformatics PhD and Data Scientist
 
 ## Currently
 
-My current role is as a Senior Scientist at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
+My current role is as a Senior Bioinformatician at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
 
 ## Professional Positions Held
 
@@ -59,13 +59,13 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 * R
 * Shiny
 * Statistics
-* LaTeX
+* Workflow languages (Snakemake, Nextflow, CWL)
 * Markdown / RMarkdown
 * Git / GitHub
 * UNIX
 * Machine learning / Deep learning
 * Bash / Shell scripting
-* Python / Snakemake
+* Python
 * Inkscape / Gimp
 * Data visualisation (ggplot2/d3/vegalite)
 * Cluster computing / GPU computing
@@ -88,14 +88,22 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Professional Memberships
 
+`2021 -`
+
+Chair of a committee of reviewers for the Health Research Council (HRC) of New Zealand
+
+Panel member reviewing for the Health Research Council (HRC) of New Zealand
+
 `2020 -`
 Certified Carpentries Instructor.
+
+Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
 `2019 -`
 Member Human Genomics Society of Australasia
 
 `2015 -`
-Ad hoc reviewer, PLoS One, BMC Medical Genetics, Gene
+Ad hoc reviewer, Nature Biotechnology, Clinical Epigenetics, PLoS One, BMC Medical Genetics, Gene
 
 `2015 -` 
 Reviewer National Health and Medical Research Council, Australia
@@ -160,15 +168,19 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __43__
-* H-index: __18__
-* Citations: __1168__
+* Journal articles: __46__
+* H-index: __19__
+* Citations: __1225__
 
 ## Publications
 
 <!-- ### Journals -->
 
 `2021`
+
+Tran NK, Lea RA, Holland S, Nguyen Q, Raghubar AM, Sutherland HG, **Benton MC**, Haupt LM, Blackburn NB, Curran JE, Blangero J, Mallett AJ, and Griffiths LR. (2021) Multi-phenotype genome-wide association studies of the Norfolk Island isolate implicate pleiotropic loci involved in chronic kidney disease. *Scientific Reports* Volume 11, Article number: 19425
+
+Connell J, **Benton MC**, Lea RA, Sutherland H, Chaseling J, Haupt LM, Wright K, and Griffiths LR. (2021) Pedigree Derived Mutation Rate Across the Entire Mitochondrial Genome of the Norfolk Island Population. (Accepted at *Scientific Reports*) DOI: 10.21203/rs.3.rs-823709/v1
 
 Cao TV, Lea RA, Sutherland HG, **Benton MC**, Pishva SR, Haupt LM, and Griffiths LR. (2021) A genome-wide methylation study of body fat traits in the Norfolk Island Isolate. *Nutrition, Metabolism and Cardiovascular Diseases* (Accepted, awaiting publication)
 
@@ -383,6 +395,16 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 **Benton MC**, Macartney-Coxson D, Eccles D, Griffiths L, Chambers GK, Lea RA. A Mitochondrial Genome Scan for Thrifty Genes in Maori. WHBRS 2010, Wellington, New Zealand. [PDF]
 
 ### Other dissemination
+
+#### Media
+
+Radio New Zealand - *Miles Benton: diagnosing serious illnesses cheaper and faster*. An interview that I did with Kim Hill on Radio NZ's Saturday Morning show. [link](https://www.rnz.co.nz/national/programmes/saturday/audio/2018815703/miles-benton-diagnosing-serious-illnesses-cheaper-and-faster)
+
+ESR Media Release - *ESR scientists showcase benefits of collaboration for rapid-DNA sequencing*. Another article highlighting the work we are doing in the Nanopore space to make the technology more affordable and accessible. [link](https://www.esr.cri.nz/home/about-esr/media-releases/esr-scientists-showcase-benefits-of-collaboration-for-rapid-dna-sequencing/)
+
+New Zealand Herald - *The genius of genomics: The revolution that helped NZ quash Covid-19*. A NZ Herald article that contains a section on the Nanopore portable bed-side sequencing projects that we have underway. [link](https://www.nzherald.co.nz/nz/the-genius-of-genomics-the-revolution-that-helped-nz-quash-covid-19/EFJWSHSL3TTYNNKYA5WEROIKHY/)
+
+#### Talks
 
 **Benton MC**. Something a little bit different… CLNR 401 Plenary, 6th March 2021, Victoria University of Wellington.
 
