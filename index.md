@@ -396,7 +396,7 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 
 ### Other dissemination
 
-#### Media
+**Media**
 
 Radio New Zealand - *Miles Benton: diagnosing serious illnesses cheaper and faster*. An interview that I did with Kim Hill on Radio NZ's Saturday Morning show. [link](https://www.rnz.co.nz/national/programmes/saturday/audio/2018815703/miles-benton-diagnosing-serious-illnesses-cheaper-and-faster)
 
@@ -404,7 +404,7 @@ ESR Media Release - *ESR scientists showcase benefits of collaboration for rapid
 
 New Zealand Herald - *The genius of genomics: The revolution that helped NZ quash Covid-19*. A NZ Herald article that contains a section on the Nanopore portable bed-side sequencing projects that we have underway. [link](https://www.nzherald.co.nz/nz/the-genius-of-genomics-the-revolution-that-helped-nz-quash-covid-19/EFJWSHSL3TTYNNKYA5WEROIKHY/)
 
-#### Talks
+**Talks**
 
 **Benton MC**. Something a little bit different… CLNR 401 Plenary, 6th March 2021, Victoria University of Wellington.
 
