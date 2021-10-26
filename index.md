@@ -95,7 +95,7 @@ Chair of a committee of reviewers for the Health Research Council (HRC) of New Z
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
 `2020 -`
-Certified Carpentries Instructor.
+Certified Carpentries Instructor
 
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
@@ -109,7 +109,7 @@ Ad hoc reviewer, Nature Biotechnology, Clinical Epigenetics, PLoS One, BMC Medic
 Reviewer National Health and Medical Research Council, Australia
 
 `2014 -` 
-Member Australasian Genomic Technologies Association (AGTA).
+Member Australasian Genomic Technologies Association (AGTA)
 
 ### Leadership
 
