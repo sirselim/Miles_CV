@@ -30,13 +30,13 @@ __Oxford Nanopore Technologies__ Senior Bioinformatician | Applications
 __Genomics Aotearoa__ Bioinformatics Leadership Team (Health)
 
 `2018-2022` 
-__Institute of Environmental Science and Research__ Senior Scientist, Bioinformatics / Data Science
+__Institute of Environmental Science and Research (ESR)__ Senior Scientist, Bioinformatics / Data Science
 
 `2014-2018` 
 __Queensland University of Technology__ Postdoc Research Fellow, Bioinformatics
 
 `2013-2014` 
-__Environmental Science Research (ESR)__ Honorary Senior Scientist (Bioinformatics)
+__Institute of Environmental Science and Research (ESR)__ Honorary Senior Scientist (Bioinformatics)
 
 `2011-2021` 
 __Victoria University of Wellington__ Lecturer CLNR580 (Clinical Research Preparation)
