@@ -19,11 +19,11 @@ Bioinformatics PhD and Data Scientist
 
 ## Currently
 
-My current role is as a Senior Bioinformatician at [ESR](https://www.esr.cri.nz/) (Institute of Environmental Science and Research). I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). Part of my role at ESR has been implementing deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I am also leading the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use. In May 2019 I was appointed to the Genomics Aoteoroa Bioinformatics Leadership Team, where I am responsible for overseeing bioinformatics support for health projects across New Zealand. I am also heavily involved in the Data Carpentries as an instructor and facilitator, and am a mentor on ESR's data science accelerator programme.
+My current role is as a Senior Bioinformatician at [Oxford Nanopore Technologies](www.nanoporetech.com) in the Singapore Applications Team. I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). In my previous role I implemented deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I also led the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use, namely using Nanopore technology for affordable, accessible and portable sequencing. I was part of the Genomics Aoteoroa Bioinformatics Leadership Team for 3 years, where I was responsible for overseeing bioinformatics support for health projects across New Zealand. I have also been heavily involved in the Data Carpentries as an instructor and facilitator.
 
 ## Professional Positions Held
 
-`2022`
+`2022-`
 __Oxford Nanopore Technologies__ Senior Bioinformatician | Applications
 
 `2019-2022`
@@ -38,10 +38,10 @@ __Queensland University of Technology__ Postdoc Research Fellow, Bioinformatics
 `2013-2014` 
 __Environmental Science Research (ESR)__ Honorary Senior Scientist (Bioinformatics)
 
-`2011-` 
+`2011-2021` 
 __Victoria University of Wellington__ Lecturer CLNR580 (Clinical Research Preparation)
 
-`2010-` 
+`2010-2020` 
 __Victoria University of Wellington__ Lecturer BMSC406 (Science and Ethics)
 
 ## Education
@@ -130,6 +130,15 @@ MapNet 2019, Victoria University of Wellington - Organising committee member
 
 ### Honours and Distinctions
 
+`2021`
+_Science New Zealand Awards_ - Early Career Researcher of the Year
+
+`2019`
+_Mentor_ – Royal Society Powering Potential
+
+`2019`
+_Data Carpentries Instructor_
+
 `2017` 
 _QUT School of Biomedical Sciences Travel Grant_
 
@@ -171,9 +180,9 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __46__
+* Journal articles: __49__
 * H-index: __19__
-* Citations: __1225__
+* Citations: __1337__
 
 ## Publications
 
