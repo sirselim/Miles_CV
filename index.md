@@ -23,10 +23,13 @@ My current role is as a Senior Scientist at [ESR](https://www.esr.cri.nz/) (Inst
 
 ## Professional Positions Held
 
-`2019-`
+`2022`
+__Oxford Nanopore Technologies__ Senior Bioinformatician | Applications
+
+`2019-2022`
 __Genomics Aotearoa__ Bioinformatics Leadership Team (Health)
 
-`2018-` 
+`2018-2022` 
 __Institute of Environmental Science and Research__ Senior Scientist, Bioinformatics / Data Science
 
 `2014-2018` 
