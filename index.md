@@ -19,11 +19,11 @@ Bioinformatics PhD and Data Scientist
 
 ## Currently
 
-In my current role I am a Senior Bioinformatician at [Oxford Nanopore Technologies](www.nanoporetech.com) in the Singapore Applications Team. I have extensive experience in computational genomics and bioinformatics, specialising in human health genomics. I completed a postdoc at Queensland University of Technology (Brisbane, Australia) working on the development of methods to deal with ever expanding genomic data sets and their access and interpretation back to the people that matter (i.e. clients, clinicians, researchers, public, etc). In my previous role I implemented deep learning techniques in several key genomic areas, including clinical variant calling/identification and base-calling of DNA sequence data. I also led the development of machine learning/AI technology on portable Nvidia modules for field/remote deployment and use, namely using Nanopore technology for affordable, accessible and portable sequencing. I was part of the Genomics Aoteoroa Bioinformatics Leadership Team for 3 years, where I was responsible for overseeing bioinformatics support for health projects across New Zealand. I have also been heavily involved in the Data Carpentries as an instructor and facilitator.
+I am a Senior Bioinformatician in the Applications Project Support Team. We strive to support cutting edge science and facilitate the democratizing of sequencing across Singapore, Australia, New Zealand, and Southeast Asia. We collaborate closely with technical, development, and product management teams to enable population-scale sequencing initiatives and provide project support to our customers. In my previous role, I led the development of machine learning/AI models for portable sequencing solutions using Nanopore technology. I also served on the Genomics Aoteoroa Bioinformatics Leadership Team for three years, overseeing bioinformatics support for health projects in New Zealand. Additionally, I contribute to the Data Carpentries community as an instructor and facilitator, promoting data literacy and empowering others with essential computational skills.
 
 ## Professional Positions Held
 
-`2022-`
+`2022-present`
 __Oxford Nanopore Technologies__ Senior Bioinformatician | Applications
 
 `2019-2022`
@@ -59,17 +59,17 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ## Technical skills
 
+* Bash / Shell scripting
+* Rust
+* Python
 * R
 * Shiny
 * Statistics
 * Workflow languages (Snakemake, Nextflow, CWL)
-* Markdown / RMarkdown
+* Markdown / RMarkdown / Quarto
 * Git / GitHub
 * UNIX
 * Machine learning / Deep learning
-* Bash / Shell scripting
-* Python
-* Inkscape / Gimp
 * Data visualisation (ggplot2/d3/vegalite)
 * Cluster computing / GPU computing
 * HTML and CSS
@@ -83,7 +83,7 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 `2019`  co-PI, ESR Pioneer Funding: *Engineering, Robotics, Innovation, Coding and Automation code club pilot plus portable sequencers and remote sensors*
 
-`2019 - `  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
+`2019`  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
 
 `2019`  PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
 
@@ -180,13 +180,23 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __49__
-* H-index: __19__
-* Citations: __1337__
+* Journal articles: __57__
+* H-index: __22__
+* Citations: __1842__
 
 ## Publications
 
 <!-- ### Journals -->
+
+`2024`
+
+Wong C, Tham CY, Yang L, **Benton MC**, Narang V, Denil S, Duan K, Yew YW, Lee B, Florez de Sessions P, Common JEA. (2024) Nanopore sequencing enables allelic phasing of FLG loss-of-function variants, intragenic copy number variation and methylation status in atopic dermatitis and ichthyosis vulgaris. *Journal of Investigative Dermatology*, Feb 7:S0022-202X(24)00097-6
+
+Chin HL, **Benton MC**, Yang L, Poon KS, Tan KML, Jamuar SS, Foo R, Law HY, Goh DM, Chong SS, and de Sessions PF. (2024). Clinical application of targeted long read sequencing in prenatal beta-thalassemia testing and genetic counseling. *Molecular Genetics & Genomic Medicine*, 12, e2285.
+
+`2023`
+
+Bloomfield M, Hutton S, Velasco C, Burton M, **Benton MC**, Storey M, ESR Genomics Consortium. (2023) Oxford Nanopore next generation sequencing in a front-line clinical microbiology laboratory without on-site bioinformaticians. *Pathology* 56(3)
 
 `2021`
 
