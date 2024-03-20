@@ -166,13 +166,13 @@ _ESR Masters Research Scholarship_
 
 ### Supervision
 
-`2020 - ongoing` 
+`2020 - 2024`
 Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
 
-`2018 - ongoing` 
+`2018 - 2022`
 Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
 
-`2018 - completed`
+`2018 - 2019`
 Secondary Supervisor – Bioinformatics Honors Student (QUT)
 
 `2016` Completed QUT Effective Supervisory Practices Level 1 <br>
