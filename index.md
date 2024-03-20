@@ -131,6 +131,12 @@ MapNet 2019, Victoria University of Wellington - Organising committee member
 
 ### Honours and Distinctions
 
+`2024`
+_Applications Award 2023_ - Excellence in Cross-Functional Support
+
+`2023`
+_ONT Star Award_ - true teamwork, collaboration and commitment
+
 `2021`
 _Science New Zealand Awards_ - Early Career Researcher of the Year
 
