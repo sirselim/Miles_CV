@@ -17,7 +17,7 @@ Bioinformatics PhD and Genomic Scientist
 
 ## Currently
 
-Genomics and bioinformatics specialist with extensive experience in long-read sequencing, computational biology and the application of emerging genomic technologies. Originally trained as a wet-lab scientist, I have worked across experimental and computational genomics, from study design through to analysis, interpretation and population-scale implementation. My current role combines scientific leadership with commercial strategy, supporting complex customer and collaborative projects, engaging with senior researchers and key opinion leaders, and working across technical and commercial teams to identify where new technologies can have the greatest impact. I am particularly interested in translating genomic innovation into practical, responsible solutions that deliver meaningful benefit for researchers, communities and partners.
+Genomics and bioinformatics specialist with extensive experience in long-read sequencing, computational biology and the application of emerging genomic technologies. I have worked across experimental and computational genomics, from study design through to analysis, interpretation and population-scale implementation. My current role combines scientific leadership with commercial strategy, supporting complex customer and collaborative projects, engaging with senior researchers and key opinion leaders, and working across technical and commercial teams to identify where new technologies can have the greatest impact. I am particularly interested in translating genomic innovation into practical, responsible solutions that deliver meaningful benefit for researchers, communities and partners.
 
 ## Professional Positions Held
 
