@@ -19,13 +19,16 @@ Bioinformatics PhD and Data Scientist
 
 ## Currently
 
-I am a Senior Bioinformatician in the Applications Project Support Team. We strive to support cutting edge science and facilitate the democratizing of sequencing across Singapore, Australia, New Zealand, and Southeast Asia. We collaborate closely with technical, development, global applications and product management teams to enable population-scale sequencing initiatives and provide project support to our customers. In my early research career I was trained as a wet lab scientist and in my previous roles I have lead and worked closely with both bioinformatics and wet lab scientists. I have often supported library preparation questions as well as flow cell loadings, and provided guidance on the design of adaptive sampling panels. I also led the development of machine learning/AI models for portable sequencing solutions using Nanopore technology. I served on the Genomics Aoteoroa Bioinformatics Leadership Team for three years, overseeing bioinformatics support for health projects in New Zealand. Additionally, I contribute to the Data Carpentries community as an instructor and facilitator, promoting data literacy and empowering others with essential computational skills.
+Genomics and bioinformatics specialist with extensive experience in long-read sequencing, computational biology and the application of emerging genomic technologies. Originally trained as a wet-lab scientist, I have worked across experimental and computational genomics, from study design through to analysis, interpretation and population-scale implementation. My current role combines scientific leadership with commercial strategy, supporting complex customer and collaborative projects, engaging with senior researchers and key opinion leaders, and working across technical and commercial teams to identify where new technologies can have the greatest impact. I am particularly interested in translating genomic innovation into practical, responsible solutions that deliver meaningful benefit for researchers, communities and partners.
 
 
 ## Professional Positions Held
 
-`2022-present`
-__Oxford Nanopore Technologies__ Senior Bioinformatician | Applications
+`2024-present`
+__Oxford Nanopore Technologies__ Associate Director | Commercial Applications (APAC)
+
+`2022-2024`
+__Oxford Nanopore Technologies__ Senior Bioinformatician | Commercial Applications (APAC)
 
 `2019-2022`
 __Genomics Aotearoa__ Bioinformatics Leadership Team (Health)
@@ -82,15 +85,18 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 `2020` co-PI, ESR Pioneer Funding: *Harnessing the disruptive nature of portable sequencing for community empowerment*
 
-`2019`  co-PI, ESR Pioneer Funding: *Engineering, Robotics, Innovation, Coding and Automation code club pilot plus portable sequencers and remote sensors*
+`2019` co-PI, ESR Pioneer Funding: *Engineering, Robotics, Innovation, Coding and Automation code club pilot plus portable sequencers and remote sensors*
 
-`2019`  PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
+`2019` PI, ESR Strategic Science Investment Funding: *Clinically Relevant Human Genomics at ESR*
 
-`2019`  PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
+`2019` PI, ESR Pioneer Funding: *Growing ESRs genomics reputation – compiling and refining a eukaryotic reference genome*
 
-`2015`  PI. Wellington Medical Research Foundation: "*Validation of Blood Cell Lineage Specific DNA methylation markers.*"
+`2015` PI. Wellington Medical Research Foundation: "*Validation of Blood Cell Lineage Specific DNA methylation markers.*"
 
 ### Professional Memberships
+
+`2026-`
+Board member (Trustee) - Taranaki Conservation Genomics Trust
 
 `2021 -`
 
@@ -187,9 +193,9 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 ## Publication Metrics
 
-* Journal articles: __57__
-* H-index: __22__
-* Citations: __1842__
+* Journal articles: __62__
+* H-index: __24__
+* Citations: __2383__
 
 ## Publications
 
