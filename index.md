@@ -198,15 +198,21 @@ A course designed to walk Research Supervisors through the frameworks and pragma
 
 <!-- ### Journals -->
 
+`2026`
+
+Imoto S, Yamamoto T, Nakamura Y et al. (2026) Diploid telomere-to-telomere assemblies reveal hierarchical satellite architectures and heritable MHC structural diversity in macaques. Pre Print
+
+Meyjes-Brown JWI, Sutherland HG, Tran KN, **Benton MC**, Lea RA, Griffiths LR. (2026) An ACOT4 Multi-Nucleotide Variant Is Associated with Cardiovascular Risk in Norfolk Island and UK Biobank Cohorts. Genes 17(2)
+
 `2024`
+
+Hench J, Hultschig C, Brugger J, et al. (2024) EpiDiP/NanoDiP: a versatile unsupervised machine learning edge computing platform for epigenomic tumour diagnostics. acta neuropathol commun 12(51)
+
+Bloomfield M, Hutton S, Velasco C, Burton M, **Benton MC**, Storey M, ESR Genomics Consortium. (2024) Oxford Nanopore next generation sequencing in a front-line clinical microbiology laboratory without on-site bioinformaticians. *Pathology* 56(3)
 
 Wong C, Tham CY, Yang L, **Benton MC**, Narang V, Denil S, Duan K, Yew YW, Lee B, Florez de Sessions P, Common JEA. (2024) Nanopore sequencing enables allelic phasing of FLG loss-of-function variants, intragenic copy number variation and methylation status in atopic dermatitis and ichthyosis vulgaris. *Journal of Investigative Dermatology*, Feb 7:S0022-202X(24)00097-6
 
 Chin HL, **Benton MC**, Yang L, Poon KS, Tan KML, Jamuar SS, Foo R, Law HY, Goh DM, Chong SS, and de Sessions PF. (2024). Clinical application of targeted long read sequencing in prenatal beta-thalassemia testing and genetic counseling. *Molecular Genetics & Genomic Medicine*, 12, e2285.
-
-`2023`
-
-Bloomfield M, Hutton S, Velasco C, Burton M, **Benton MC**, Storey M, ESR Genomics Consortium. (2023) Oxford Nanopore next generation sequencing in a front-line clinical microbiology laboratory without on-site bioinformaticians. *Pathology* 56(3)
 
 `2021`
 
