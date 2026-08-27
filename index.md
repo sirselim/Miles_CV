@@ -92,33 +92,33 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Professional Memberships
 
-`2026-`
+`2026 - present`
 Board member (Trustee) - Taranaki Conservation Genomics Trust
 
-`2021 -`
+`2021 - 2023`
 
 Chair of a committee of reviewers for the Health Research Council (HRC) of New Zealand
 
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
-`2020 -`
+`2020 - present`
 Certified Carpentries Instructor
 
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
-`2019 -`
+`2019 - 2021`
 Member Human Genomics Society of Australasia
 
-`2015 -`
+`2015 - 2023`
 Ad hoc reviewer, Nature Biotechnology, Clinical Epigenetics, PLoS One, BMC Medical Genetics, Gene
 
-`2015 -` 
+`2015 - 2023` 
 Reviewer National Health and Medical Research Council, Australia
 
-`2014 -` 
+`2014 - 2021` 
 Member Australasian Genomic Technologies Association (AGTA)
 
-### Leadership
+<!-- ### Leadership
 
 `2021`
 
@@ -130,7 +130,7 @@ eResearch 2021, Victoria University of Wellington - Organising committee member
 
 Mentor for the Royal Society Te Apārangi Powering Potential programme
 
-MapNet 2019, Victoria University of Wellington - Organising committee member
+MapNet 2019, Victoria University of Wellington - Organising committee member -->
 
 ### Honours and Distinctions
 
@@ -174,7 +174,7 @@ _Griffith University Higher Degree Research Scholarship_
 `2007-10`
 _ESR Masters Research Scholarship_
 
-### Supervision
+<!-- ### Supervision
 
 `2020 - 2024`
 Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
@@ -186,7 +186,7 @@ Co-supervisor - Bioinformatics PhD student (Otago University/ESR)
 Secondary Supervisor – Bioinformatics Honors Student (QUT)
 
 `2016` Completed QUT Effective Supervisory Practices Level 1 <br>
-A course designed to walk Research Supervisors through the frameworks and pragmatic issues associated with supervising in today's research environment; ultimately to provide them with effective and essential tools for their supervisory tool kit.
+A course designed to walk Research Supervisors through the frameworks and pragmatic issues associated with supervising in today's research environment; ultimately to provide them with effective and essential tools for their supervisory tool kit. -->
 
 ## Publication Metrics
 
