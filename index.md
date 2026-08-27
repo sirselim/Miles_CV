@@ -315,7 +315,7 @@ Maher BH, Lea RA, **Benton MC**, Cox HC, Bellis C, Carless M, Dyer TD, Curran J,
 
 <!-- ### Talks/Presentations -->
 
-## Presentations
+<!-- ## Presentations
 
 ### Conference Talks
 
@@ -384,7 +384,7 @@ Graves MC, **Benton MC**, Lea RA, Boyle M, Tajouri L, Macartney-Coxson D, Scott 
 
 <!-- ### Scientific posters -->
 
-### Posters
+<!-- ### Posters
 
 `2015`
 Kennedy D, Lea RA, White N, **Benton MC**, Griffiths LR, and Mengersen K. (2015) Statistical deconvolution of DNA methylation data in mixed cell samples. Big Biology and Bioinformatics Symposium (B3 2015), Queensland University of Technology, QLD, Australia, 23-25th November 2015.
@@ -424,7 +424,7 @@ Griffiths LR, **Benton MC**, Cox H, Bellis C, Blangero J, Lea RA. Identification
 **Benton MC**, Lea RA, Macartney-Coxson D, Cox H, Hanna M, Eccles D, Chambers GK, Griffiths L. A Phenome Scan for Metabolic Syndrome in the Norfolk Island Isolate. HGSA Conference, Seaworld, Queensland, Australia, 3-6th December 2011. [PDF]
 
 `2010`
-**Benton MC**, Macartney-Coxson D, Eccles D, Griffiths L, Chambers GK, Lea RA. A Mitochondrial Genome Scan for Thrifty Genes in Maori. WHBRS 2010, Wellington, New Zealand. [PDF]
+**Benton MC**, Macartney-Coxson D, Eccles D, Griffiths L, Chambers GK, Lea RA. A Mitochondrial Genome Scan for Thrifty Genes in Maori. WHBRS 2010, Wellington, New Zealand. [PDF] -->
 
 ### Other dissemination
 
