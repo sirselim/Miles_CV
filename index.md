@@ -92,30 +92,30 @@ __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: H
 
 ### Professional Memberships
 
-`2026 - present`
+`2026-present`
 Board member (Trustee) - Taranaki Conservation Genomics Trust
 
-`2021 - 2023`
+`2021-2023`
 
 Chair of a committee of reviewers for the Health Research Council (HRC) of New Zealand
 
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
-`2020 - present`
+`2020-present`
 Certified Carpentries Instructor
 
 Panel member reviewing for the Health Research Council (HRC) of New Zealand
 
-`2019 - 2021`
+`2019-2021`
 Member Human Genomics Society of Australasia
 
-`2015 - 2023`
+`2015-2023`
 Ad hoc reviewer, Nature Biotechnology, Clinical Epigenetics, PLoS One, BMC Medical Genetics, Gene
 
-`2015 - 2023` 
+`2015-2023` 
 Reviewer National Health and Medical Research Council, Australia
 
-`2014 - 2021` 
+`2014-2021` 
 Member Australasian Genomic Technologies Association (AGTA)
 
 <!-- ### Leadership
@@ -441,7 +441,7 @@ Radio New Zealand - *Miles Benton: diagnosing serious illnesses cheaper and fast
 ESR Media Release - *ESR scientists showcase benefits of collaboration for rapid-DNA sequencing*. Another article highlighting the work we are doing in the Nanopore space to make the technology more affordable and accessible. [link](https://www.esr.cri.nz/home/about-esr/media-releases/esr-scientists-showcase-benefits-of-collaboration-for-rapid-dna-sequencing/)
 
 New Zealand Herald - *The genius of genomics: The revolution that helped NZ quash Covid-19*. A NZ Herald article that contains a section on the Nanopore portable bed-side sequencing projects that we have underway. [link](https://www.nzherald.co.nz/nz/the-genius-of-genomics-the-revolution-that-helped-nz-quash-covid-19/EFJWSHSL3TTYNNKYA5WEROIKHY/)
-
+<!-- 
 ***Talks***
 
 **Benton MC**. Something a little bit different… CLNR 401 Plenary, 6th March 2021, Victoria University of Wellington.
@@ -458,7 +458,7 @@ New Zealand Herald - *The genius of genomics: The revolution that helped NZ quas
 
 **Benton MC**. A student’s journey − how Bioinformatics changed my worldview: the many platforms, data types and analyses I’ve learnt along the way. ESR conference, Lincoln University, Christchurch, New Zealand, 3rd-5th December 2013. 
 
-**Benton MC**, Eccles D, Macartney-Coxson D. What High-throughput 'Omics' and Bioinformatics can do for you! Malaghan Institute Seminar, Wellington, New Zealand, 24th May 2013. 
+**Benton MC**, Eccles D, Macartney-Coxson D. What High-throughput 'Omics' and Bioinformatics can do for you! Malaghan Institute Seminar, Wellington, New Zealand, 24th May 2013.  -->
 
 ## Links
 
