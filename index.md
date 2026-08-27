@@ -3,24 +3,21 @@ layout: cv
 title: Miles Benton's CV
 ---
 # Miles C. Benton
-Bioinformatics PhD and Data Scientist
+Bioinformatics PhD and Genomic Scientist
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:miles.benton@esr.cri.nz">work</a>
+<i class="fa fa-envelope"></i> <a href="mailto:miles.benton@nanoporetech.com">work</a>
 |
 <i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">personal</a>
 |
 <i class="fa fa-home"></i> <a href="http://sirselim.github.io/">personal website</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/sirselim">sirselim</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/miles_benton">@miles_benton</a>
 </div>
 
 ## Currently
 
 Genomics and bioinformatics specialist with extensive experience in long-read sequencing, computational biology and the application of emerging genomic technologies. Originally trained as a wet-lab scientist, I have worked across experimental and computational genomics, from study design through to analysis, interpretation and population-scale implementation. My current role combines scientific leadership with commercial strategy, supporting complex customer and collaborative projects, engaging with senior researchers and key opinion leaders, and working across technical and commercial teams to identify where new technologies can have the greatest impact. I am particularly interested in translating genomic innovation into practical, responsible solutions that deliver meaningful benefit for researchers, communities and partners.
-
 
 ## Professional Positions Held
 
@@ -33,19 +30,19 @@ __Oxford Nanopore Technologies__ Senior Bioinformatician | Commercial Applicatio
 `2019-2022`
 __Genomics Aotearoa__ Bioinformatics Leadership Team (Health)
 
-`2018-2022` 
+`2018-2022`
 __Institute of Environmental Science and Research (ESR)__ Senior Scientist, Bioinformatics / Data Science
 
-`2014-2018` 
+`2014-2018`
 __Queensland University of Technology__ Postdoc Research Fellow, Bioinformatics
 
-`2013-2014` 
+`2013-2014`
 __Institute of Environmental Science and Research (ESR)__ Honorary Senior Scientist (Bioinformatics)
 
-`2011-2021` 
+`2011-2021`
 __Victoria University of Wellington__ Lecturer CLNR580 (Clinical Research Preparation)
 
-`2010-2020` 
+`2010-2020`
 __Victoria University of Wellington__ Lecturer BMSC406 (Science and Ethics)
 
 ## Education
@@ -462,8 +459,6 @@ New Zealand Herald - *The genius of genomics: The revolution that helped NZ quas
 * <i class="fa fa-envelope"></i> <a href="mailto:miles.benton84@gmail.com">email</a><br />
 * <i class="fa fa-home"></i> <a href="http://sirselim.github.io/">personal website</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/sirselim">sirselim</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/miles_benton">@miles_benton</a><br />
-* <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Miles_Benton">researchgate</a><br />
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.co.nz/citations?user=iEhBavEAAAAJ&hl=en">scholar</a>
 
 ## References
@@ -472,4 +467,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: 26th October 2021 -->
+Last updated: 27th August 2026 -->
