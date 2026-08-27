@@ -47,15 +47,15 @@ __Victoria University of Wellington__ Lecturer BMSC406 (Science and Ethics)
 
 ## Education
 
-`2010-14`
+`2010-2014`
 __Griffith University, Australia__ Bioinformatics PhD (supervisors: Lyn Griffiths, Rod Lea, Donia Macartney-Coxson and Geoff Chambers) <br>
 Thesis: “*Identification of Susceptibility Genes for Metabolic Syndrome in the Isolated Population of Norfolk Island*”
 
-`2007-09`
+`2007-2009`
 __Victoria University of Wellington, NZ__ MSc Cell and Molecular Biology (_HONS_) <br>
 Thesis: “*Mitochondrial Genome Variation and Metabolic Traits in a Maori Community*”
 
-`2004-07`
+`2004-2007`
 __Victoria University of Wellington, NZ__ BBMedSc Biomedical Science (_Majors: Human Genetics, Molecular Pathology_)
 
 ## Technical skills
@@ -168,10 +168,10 @@ _Inaugural Grasshopper prize for Scientific Innovation_. Wellington Health and B
 
 _Best Student Presenter_. 2nd Biomarker Discovery Conference, Shoal Bay Resort and Spa, NSW, Australia, 5th December 2012.
 
-`2010-13`
+`2010-2013`
 _Griffith University Higher Degree Research Scholarship_
 
-`2007-10`
+`2007-2010`
 _ESR Masters Research Scholarship_
 
 <!-- ### Supervision
@@ -441,6 +441,7 @@ Radio New Zealand - *Miles Benton: diagnosing serious illnesses cheaper and fast
 ESR Media Release - *ESR scientists showcase benefits of collaboration for rapid-DNA sequencing*. Another article highlighting the work we are doing in the Nanopore space to make the technology more affordable and accessible. [link](https://www.esr.cri.nz/home/about-esr/media-releases/esr-scientists-showcase-benefits-of-collaboration-for-rapid-dna-sequencing/)
 
 New Zealand Herald - *The genius of genomics: The revolution that helped NZ quash Covid-19*. A NZ Herald article that contains a section on the Nanopore portable bed-side sequencing projects that we have underway. [link](https://www.nzherald.co.nz/nz/the-genius-of-genomics-the-revolution-that-helped-nz-quash-covid-19/EFJWSHSL3TTYNNKYA5WEROIKHY/)
+
 <!-- 
 ***Talks***
 
